@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../PSEngagmentSystem.tests/PSEngagmentSystem.tests.csproj" Id="29e89e21-16e0-4d7a-adbe-886635fa30f4" />
+  <Project Path="PSEngagementSystem.csproj" />
+</Solution>
